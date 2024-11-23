@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Activity Tracker",
+  "version": "1.0.0",
+  "description": "Track your daily activities and maintain consistency",
+  "permissions": ["storage", "commands"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S",
+        "mac": "Command+Shift+S"
+      },
+      "description": "Open Activity Tracker"
+    }
+  },
+  "icons": {
+    "16": "src/assets/icon16.png",
+    "48": "src/assets/icon48.png",
+    "128": "src/assets/icon128.png"
+  }
+}
