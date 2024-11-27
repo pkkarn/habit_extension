@@ -1,6 +1,4 @@
-Here’s an example of a **README.md** file for your Chrome extension based on the screenshot you provided:
-
----
+⚠️ Still under development
 
 # Activity Tracker Chrome Extension
 
